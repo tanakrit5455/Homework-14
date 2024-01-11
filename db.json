@@ -1,31 +1,31 @@
 {
   "todos": [
     {
-      "todo": "Do something nice for someone I care about",
+      "todo": "Tanakrit Somprasong",
       "completed": false,
       "userId": 1,
       "id": 1
     },
     {
-      "todo": "Memorize the fifty states and their capitals",
+      "todo": "Honkai Star Rail",
       "completed": false,
       "userId": 1,
       "id": 2
     },
     {
-      "todo": "Watch a classic movie",
+      "todo": "Genshin impact",
       "completed": true,
       "userId": 1,
       "id": 3
     },
     {
-      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "todo": "Kamisato Ayaka",
       "completed": false,
       "userId": 1,
       "id": 4
     },
     {
-      "todo": "Solve a Rubik's cube",
+      "todo": "Kamisato Ayato",
       "completed": true,
       "userId": 1,
       "id": 5
